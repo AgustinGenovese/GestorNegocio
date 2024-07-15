@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\bin\Release\DominioGestor.dll
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\bin\Release\DominioGestor.pdb
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\bin\Release\DominioGestor.xml
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Release\DominioGestor.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Release\DominioGestor.Resources.resources
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Release\DominioGestor.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Release\DominioGestor.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Release\DominioGestor.dll
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Release\DominioGestor.xml
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Release\DominioGestor.pdb

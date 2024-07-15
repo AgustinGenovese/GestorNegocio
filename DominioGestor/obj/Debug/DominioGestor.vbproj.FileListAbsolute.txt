@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\bin\Debug\DominioGestor.dll
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\bin\Debug\DominioGestor.pdb
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\bin\Debug\DominioGestor.xml
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Debug\DominioGestor.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Debug\DominioGestor.Resources.resources
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Debug\DominioGestor.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Debug\DominioGestor.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Debug\DominioGestor.dll
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Debug\DominioGestor.xml
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\DominioGestor\obj\Debug\DominioGestor.pdb

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\obj\Debug\NegocioGestor.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\obj\Debug\NegocioGestor.Resources.resources
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\obj\Debug\NegocioGestor.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\obj\Debug\NegocioGestor.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\bin\Debug\NegocioGestor.dll
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\bin\Debug\NegocioGestor.pdb
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\bin\Debug\NegocioGestor.xml
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\bin\Debug\DominioGestor.dll
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\bin\Debug\DominioGestor.pdb
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\bin\Debug\DominioGestor.xml
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\obj\Debug\NegocioGestor.vbproj.CopyComplete
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\obj\Debug\NegocioGestor.dll
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\obj\Debug\NegocioGestor.xml
+C:\Users\User\Desktop\Examen Desarollo TACTICASOFT\Gestor\NegocioGestor\obj\Debug\NegocioGestor.pdb
